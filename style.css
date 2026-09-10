@@ -19,17 +19,14 @@ nav {
     text-align: center;
     padding: 15px;
 }
-
-/* --- SECTION 1: ABOUT (LIGHT BLUE) --- */
+ 
 #about {
     background-color: #EFF6FF;
     color: #1E3A8A;
     text-align: center;
     padding: 25px;
     margin: 20px;
-}
-
-/* --- SECTION 2: EVENT HIGHLIGHTS (DARK BLUE) --- */
+} 
 #EventHighlights {
     background-color: #1E3A8A;
     color: white;
@@ -37,17 +34,14 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 3: EVENT SCHEDULE (LIGHT BLUE) --- */
+ 
 #EventSchedule {
     background-color: #EFF6FF;
     color: #1E3A8A;
     text-align: center;
     padding: 25px;
     margin: 20px;
-}
-
-/* --- SECTION 4: COMPETITIONS (DARK BLUE) --- */
+} 
 #Competitions {
     background-color: #1E3A8A;
     color: white;
@@ -55,8 +49,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 5: EVENT IMAGE (LIGHT ORANGE) --- */
+ 
 #EventImage {
     background-color: #FFF7ED;
     color: #1E3A8A;
@@ -64,8 +57,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 6: USEFUL RESOURCES (DARK BLUE) --- */
+ 
 #useful-resources {
     background-color: #1E3A8A;
     color: white;
@@ -73,8 +65,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 7: REGISTRATION FORM (LIGHT ORANGE) --- */
+ 
 #registrationform {
     background-color: #FFF7ED;
     color: #1E3A8A;
@@ -82,8 +73,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 8: DIV AND SPAN USAGE (DARK BLUE) --- */
+ 
 #divspan {
     background-color: #1E3A8A;
     color: white;
@@ -91,8 +81,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 9: SPEAKER GUEST (LIGHT BLUE) --- */
+ 
 #speaker-guest {
     background-color: #EFF6FF;
     color: #1E3A8A;
@@ -100,8 +89,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 10: FILE SUBMISSION (DARK BLUE) --- */
+ 
 #file-submission {
     background-color: #1E3A8A;
     color: white;
@@ -109,8 +97,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 11: SEARCH BAR (LIGHT BLUE) --- */
+ 
 #searchbar {
     background-color: #EFF6FF;
     color: #1E3A8A;
@@ -118,8 +105,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 12: RANGE / RATE US (DARK BLUE) --- */
+ 
 #range {
     background-color: #1E3A8A;
     color: white;
@@ -127,8 +113,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 13: CONTACT US (LIGHT ORANGE) --- */
+ 
 #contact-us {
     background-color: #FFF7ED;
     color: #1E3A8A;
@@ -136,8 +121,7 @@ nav {
     padding: 25px;
     margin: 20px;
 }
-
-/* --- SECTION 14: FAQ (DARK BLUE) --- */
+ 
 #faq {
     background-color: #1E3A8A;
     color: white;
